@@ -40,32 +40,32 @@ The dataset (`loan_approval_dataset.csv`) contains the following columns:
 
 ### 2. Target Variable Distribution
 - Visualized the distribution of approved vs rejected loans.
-![Distribution of Loan Status](plotsImages/target_distribution.png)
+![Distribution of Loan Status](Assets/plotsImages/target_distribution.png)
 
 ### 3. Categorical Feature Analysis
 - Explored how education and employment status affect loan approval.
-![Education vs Loan Status](plotsImages/Categorical_Features/categorical_feature1.png)
-![Self-employed vs Loan Status](plotsImages/Categorical_Features/categorical_feature2.png)
+![Education vs Loan Status](Assets/plotsImages/Categorical_Features/categorical_feature1.png)
+![Self-employed vs Loan Status](Assets/plotsImages/Categorical_Features/categorical_feature2.png)
 
 ### 4. Numerical Feature Distributions
 - Plotted histograms for all numerical features.
-![Numerical Features](plotsImages/numerical_feature_histogram.png)
+![Numerical Features](Assets/plotsImages/numerical_feature_histogram.png)
 
 ### 5. Boxplots: Numerical Features vs Target
 - Compared distributions of numerical features for approved vs rejected loans.
-![Numerical Features vs Target](plotsImages/numerical_vs_target.png)
+![Numerical Features vs Target](Assets/plotsImages/numerical_vs_target.png)
 
 ### 6. Correlation Analysis
 - Visualized feature correlations.
-![Correlation Analysis](plotsImages/correlation_matrix.png)
+![Correlation Analysis](Assets/plotsImages/correlation_matrix.png)
 
 ### 7. Scatter Plots: Feature vs Target
 - Plotted each feature against the target variable.
-![All Features vs Target](plotsImages/features_vs_target.png)
+![All Features vs Target](Assets/plotsImages/features_vs_target.png)
 
 ### 8. Pairplot for Feature Interactions
 - Explored pairwise relationships between features.
-![Features Pairplot](plotsImages/pairplots_features.png)
+![Features Pairplot](Assets/plotsImages/pairplots_features.png)
 
 ---
 
@@ -80,19 +80,19 @@ The dataset (`loan_approval_dataset.csv`) contains the following columns:
 ## Model EDA & Plots:
 ### 1. Cost Function Visualization
 - Shows model learning progress.
-![Cost function for learing process](plotsImages/cost_function.png)
+![Cost function for learing process](Assets/plotsImages/cost_function.png)
 
 ### 2. Prediction Distribution
 - Visualizes predicted loan status.
-![Prediction distribution for approved and rejected persons](plotsImages/prediction_distribution.png)
+![Prediction distribution for approved and rejected persons](Assets/plotsImages/prediction_distribution.png)
 
 ### 3. Model Accuracy
 - Shows the proportion of correct vs incorrect predictions.
-![Model Accuracy (in %)](plotsImages/accuracy.png)
+![Model Accuracy (in %)](Assets/plotsImages/accuracy.png)
 
 ### 4. Confusion Matrix (Optional)
 - Evaluates model accuracy.
-![Confusion matrix](plotsImages/confusion_matrix.png)
+![Confusion matrix](Assets/plotsImages/confusion_matrix.png)
 ---
 
 
