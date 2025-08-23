@@ -84,10 +84,15 @@ The dataset (`loan_approval_dataset.csv`) contains the following columns:
 
 ### 2. Prediction Distribution
 - Visualizes predicted loan status.
+![Prediction distribution for approved and rejected persons](plotsImages/prediction_distribution.png)
 
-### 3. Confusion Matrix (Optional)
+### 3. Model Accuracy
+- Shows the proportion of correct vs incorrect predictions.
+![Model Accuracy (in %)](plotsImages/accuracy.png)
+
+### 4. Confusion Matrix (Optional)
 - Evaluates model accuracy.
-
+![Confusion matrix](plotsImages/confusion_matrix.png)
 ---
 
 
