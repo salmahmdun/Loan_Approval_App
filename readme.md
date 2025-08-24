@@ -57,7 +57,9 @@ The dataset (`loan_approval_dataset.csv`) contains the following columns:
 
 ### 6. Correlation Analysis
 - Visualized feature correlations.
-![Correlation Analysis](Assets/plotsImages/correlation_matrix.png)
+![Correlation Analysis for both Categorical & numerical Features](Assets/plotsImages/correlation_matrix.png)
+![Correlation Analysis for categorical Features](Assets/plotsImages/categorical_features_correlation.png)
+![Correlation Analysis for numerical Features](Assets/plotsImages/numerical_features_correlation.png)
 
 ### 7. Scatter Plots: Feature vs Target
 - Plotted each feature against the target variable.
