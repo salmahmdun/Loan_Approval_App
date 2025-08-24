@@ -1,4 +1,4 @@
-# Loan Approval Prediction System
+# Loan Approval App
 
 ## Introduction:
 This project aims to predict loan approval status using customer and asset data. By applying data science techniques, we analyze key factors influencing loan decisions and build a logistic regression model from scratch. The workflow includes data exploration, preprocessing, visualization, and model evaluation.
